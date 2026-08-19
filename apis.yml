@@ -33,7 +33,7 @@ x-enrichment-note: 'Re-verified 2026-07-20 (second pass): still no operating com
   because the apex domain is no longer controlled by the company and recording it
   would misattribute a squatter''s posture.'
 x-enrichment-checked: '2026-07-20'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-18'
 tags:
